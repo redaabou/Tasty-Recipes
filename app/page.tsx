@@ -36,7 +36,7 @@ export default function Home() {
       <section className="relative rounded-xl overflow-hidden mb-16">
         <div className="absolute inset-0 bg-gradient-to-r from-black/70 to-black/30 z-10" />
         <Image
-          src="/images/cooking-ingredient.jpg"
+          src="/images/italian-cuisine.jpg"
           alt="Culinary Journey"
           width={1200}
           height={600}
